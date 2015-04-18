@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:247493ab-0339-46cf-abb4-b33516b75ff2</dc:identifier>
+    <dc:title>Real World Haskell</dc:title>
+    <dc:creator opf:role="aut">Bryan O'Sullivan, Don Stewart, and John Goerzen</dc:creator>
+    <dc:language>en</dc:language>
+    <meta content="1.0.0" name="version" />
+    <dc:date opf:event="modification">2015-04-18</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="styles.css" id="styles.css" media-type="text/css" />
+    <item href="ch11-coverage-screen.png" id="ch11-coverage-screen.png" media-type="image/png" />
+    <item href="ch11-hpc-round1.png" id="ch11-hpc-round1.png" media-type="image/png" />
+    <item href="ch11-hpc-round2.png" id="ch11-hpc-round2.png" media-type="image/png" />
+    <item href="ch12-barcode-example.png" id="ch12-barcode-example.png" media-type="image/png" />
+    <item href="ch12-barcode-generated.png" id="ch12-barcode-generated.png" media-type="image/png" />
+    <item href="ch25-heap-hc.png" id="ch25-heap-hc.png" media-type="image/png" />
+    <item href="ch25-heap-hd.png" id="ch25-heap-hd.png" media-type="image/png" />
+    <item href="ch25-heap-hy.png" id="ch25-heap-hy.png" media-type="image/png" />
+    <item href="ch25-stack.png" id="ch25-stack.png" media-type="image/png" />
+    <item href="gui-glade-3.png" id="gui-glade-3.png" media-type="image/png" />
+    <item href="gui-pod-addwin.png" id="gui-pod-addwin.png" media-type="image/png" />
+    <item href="gui-pod-mainwin.png" id="gui-pod-mainwin.png" media-type="image/png" />
+    <item href="gui-update-complete.png" id="gui-update-complete.png" media-type="image/png" />
+    <item href="note.png" id="note.png" media-type="image/png" />
+    <item href="osx-ghci.png" id="osx-ghci.png" media-type="image/png" />
+    <item href="remark.png" id="remark.png" media-type="image/png" />
+    <item href="rss.png" id="rss.png" media-type="image/png" />
+    <item href="shell.png" id="shell.png" media-type="image/png" />
+    <item href="source.png" id="source.png" media-type="image/png" />
+    <item href="tip.png" id="tip.png" media-type="image/png" />
+    <item href="warning.png" id="warning.png" media-type="image/png" />
+    <item href="win32-download.png" id="win32-download.png" media-type="image/png" />
+    <item href="win32-ghci.png" id="win32-ghci.png" media-type="image/png" />
+    <item href="win32-start-menu.png" id="win32-start-menu.png" media-type="image/png" />
+    <item href="win32-wizard1.png" id="win32-wizard1.png" media-type="image/png" />
+    <item href="ch12-bad-angled.jpg" id="ch12-bad-angled.jpg" media-type="image/jpeg" />
+    <item href="ch12-bad-too-far.jpg" id="ch12-bad-too-far.jpg" media-type="image/jpeg" />
+    <item href="ch12-bad-too-near.jpg" id="ch12-bad-too-near.jpg" media-type="image/jpeg" />
+    <item href="ch12-barcode-photo.jpg" id="ch12-barcode-photo.jpg" media-type="image/jpeg" />
+    <item href="advanced-library-design-building-a-bloom-filter.html" id="advanced-library-design-building-a-bloom-filter.html" media-type="application/xhtml+xml" />
+    <item href="barcode-recognition.html" id="barcode-recognition.html" media-type="application/xhtml+xml" />
+    <item href="bibliography.html" id="bibliography.html" media-type="application/xhtml+xml" />
+    <item href="characters-strings-and-escaping-rules.html" id="characters-strings-and-escaping-rules.html" media-type="application/xhtml+xml" />
+    <item href="code-case-study-parsing-a-binary-data-format.html" id="code-case-study-parsing-a-binary-data-format.html" media-type="application/xhtml+xml" />
+    <item href="concurrent-and-multicore-programming.html" id="concurrent-and-multicore-programming.html" media-type="application/xhtml+xml" />
+    <item href="data-structures.html" id="data-structures.html" media-type="application/xhtml+xml" />
+    <item href="defining-types-streamlining-functions.html" id="defining-types-streamlining-functions.html" media-type="application/xhtml+xml" />
+    <item href="efficient-file-processing-regular-expressions-and-file-name-matching.html" id="efficient-file-processing-regular-expressions-and-file-name-matching.html" media-type="application/xhtml+xml" />
+    <item href="error-handling.html" id="error-handling.html" media-type="application/xhtml+xml" />
+    <item href="extended-example-web-client-programming.html" id="extended-example-web-client-programming.html" media-type="application/xhtml+xml" />
+    <item href="functional-programming.html" id="functional-programming.html" media-type="application/xhtml+xml" />
+    <item href="getting-started.html" id="getting-started.html" media-type="application/xhtml+xml" />
+    <item href="gui-programming-with-gtk-hs.html" id="gui-programming-with-gtk-hs.html" media-type="application/xhtml+xml" />
+    <item href="index.html" id="index.html" media-type="application/xhtml+xml" />
+    <item href="installing-ghc-and-haskell-libraries.html" id="installing-ghc-and-haskell-libraries.html" media-type="application/xhtml+xml" />
+    <item href="interfacing-with-c-the-ffi.html" id="interfacing-with-c-the-ffi.html" media-type="application/xhtml+xml" />
+    <item href="io-case-study-a-library-for-searching-the-filesystem.html" id="io-case-study-a-library-for-searching-the-filesystem.html" media-type="application/xhtml+xml" />
+    <item href="io.html" id="io.html" media-type="application/xhtml+xml" />
+    <item href="monad-transformers.html" id="monad-transformers.html" media-type="application/xhtml+xml" />
+    <item href="monads.html" id="monads.html" media-type="application/xhtml+xml" />
+    <item href="profiling-and-optimization.html" id="profiling-and-optimization.html" media-type="application/xhtml+xml" />
+    <item href="programming-with-monads.html" id="programming-with-monads.html" media-type="application/xhtml+xml" />
+    <item href="sockets-and-syslog.html" id="sockets-and-syslog.html" media-type="application/xhtml+xml" />
+    <item href="software-transactional-memory.html" id="software-transactional-memory.html" media-type="application/xhtml+xml" />
+    <item href="systems-programming-in-haskell.html" id="systems-programming-in-haskell.html" media-type="application/xhtml+xml" />
+    <item href="testing-and-quality-assurance.html" id="testing-and-quality-assurance.html" media-type="application/xhtml+xml" />
+    <item href="types-and-functions.html" id="types-and-functions.html" media-type="application/xhtml+xml" />
+    <item href="using-databases.html" id="using-databases.html" media-type="application/xhtml+xml" />
+    <item href="using-parsec.html" id="using-parsec.html" media-type="application/xhtml+xml" />
+    <item href="using-typeclasses.html" id="using-typeclasses.html" media-type="application/xhtml+xml" />
+    <item href="web-site-and-comment-system-usage-and-policies.html" id="web-site-and-comment-system-usage-and-policies.html" media-type="application/xhtml+xml" />
+    <item href="why-functional-programming-why-haskell.html" id="why-functional-programming-why-haskell.html" media-type="application/xhtml+xml" />
+    <item href="writing-a-library-working-with-json-data.html" id="writing-a-library-working-with-json-data.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="index.html" />
+    <itemref idref="why-functional-programming-why-haskell.html" />
+    <itemref idref="getting-started.html" />
+    <itemref idref="types-and-functions.html" />
+    <itemref idref="defining-types-streamlining-functions.html" />
+    <itemref idref="functional-programming.html" />
+    <itemref idref="writing-a-library-working-with-json-data.html" />
+    <itemref idref="using-typeclasses.html" />
+    <itemref idref="io.html" />
+    <itemref idref="efficient-file-processing-regular-expressions-and-file-name-matching.html" />
+    <itemref idref="io-case-study-a-library-for-searching-the-filesystem.html" />
+    <itemref idref="code-case-study-parsing-a-binary-data-format.html" />
+    <itemref idref="testing-and-quality-assurance.html" />
+    <itemref idref="barcode-recognition.html" />
+    <itemref idref="data-structures.html" />
+    <itemref idref="monads.html" />
+    <itemref idref="programming-with-monads.html" />
+    <itemref idref="using-parsec.html" />
+    <itemref idref="interfacing-with-c-the-ffi.html" />
+    <itemref idref="monad-transformers.html" />
+    <itemref idref="error-handling.html" />
+    <itemref idref="systems-programming-in-haskell.html" />
+    <itemref idref="using-databases.html" />
+    <itemref idref="extended-example-web-client-programming.html" />
+    <itemref idref="gui-programming-with-gtk-hs.html" />
+    <itemref idref="concurrent-and-multicore-programming.html" />
+    <itemref idref="profiling-and-optimization.html" />
+    <itemref idref="advanced-library-design-building-a-bloom-filter.html" />
+    <itemref idref="sockets-and-syslog.html" />
+    <itemref idref="software-transactional-memory.html" />
+    <itemref idref="installing-ghc-and-haskell-libraries.html" />
+    <itemref idref="characters-strings-and-escaping-rules.html" />
+    <itemref idref="web-site-and-comment-system-usage-and-policies.html" />
+    <itemref idref="bibliography.html" />
+  </spine>
+  <guide />
+</package>

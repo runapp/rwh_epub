@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:247493ab-0339-46cf-abb4-b33516b75ff2" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Catalogue</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1"><navLabel><text>Catalog</text></navLabel><content src="index.html" /></navPoint>
+    <navPoint id="navPoint-2" playOrder="2"><navLabel><text>Why functional programming? Why Haskell?</text></navLabel><content src="why-functional-programming-why-haskell.html" /></navPoint>
+    <navPoint id="navPoint-3" playOrder="3"><navLabel><text>1  Getting started</text></navLabel><content src="getting-started.html" /></navPoint>
+    <navPoint id="navPoint-4" playOrder="4"><navLabel><text>2  Types and functions</text></navLabel><content src="types-and-functions.html" /></navPoint>
+    <navPoint id="navPoint-5" playOrder="5"><navLabel><text>3  Defining types, streamlining functions</text></navLabel><content src="defining-types-streamlining-functions.html" /></navPoint>
+    <navPoint id="navPoint-6" playOrder="6"><navLabel><text>4  Functional programming</text></navLabel><content src="functional-programming.html" /></navPoint>
+    <navPoint id="navPoint-7" playOrder="7"><navLabel><text>5  Writing a library: working with JSON data</text></navLabel><content src="writing-a-library-working-with-json-data.html" /></navPoint>
+    <navPoint id="navPoint-8" playOrder="8"><navLabel><text>6  Using typeclasses</text></navLabel><content src="using-typeclasses.html" /></navPoint>
+    <navPoint id="navPoint-9" playOrder="9"><navLabel><text>7  Input and output</text></navLabel><content src="io.html" /></navPoint>
+    <navPoint id="navPoint-10" playOrder="10"><navLabel><text>8  Efficient file processing, regular expressions, and file name matching</text></navLabel><content src="efficient-file-processing-regular-expressions-and-file-name-matching.html" /></navPoint>
+    <navPoint id="navPoint-11" playOrder="11"><navLabel><text>9  I/O case study: a library for searching the filesystem</text></navLabel><content src="io-case-study-a-library-for-searching-the-filesystem.html" /></navPoint>
+    <navPoint id="navPoint-12" playOrder="12"><navLabel><text>10 Code case study: parsing a binary data format</text></navLabel><content src="code-case-study-parsing-a-binary-data-format.html" /></navPoint>
+    <navPoint id="navPoint-13" playOrder="13"><navLabel><text>11 Testing and quality assurance</text></navLabel><content src="testing-and-quality-assurance.html" /></navPoint>
+    <navPoint id="navPoint-14" playOrder="14"><navLabel><text>12 Barcode recognition</text></navLabel><content src="barcode-recognition.html" /></navPoint>
+    <navPoint id="navPoint-15" playOrder="15"><navLabel><text>13 Data structures</text></navLabel><content src="data-structures.html" /></navPoint>
+    <navPoint id="navPoint-16" playOrder="16"><navLabel><text>14 Monads</text></navLabel><content src="monads.html" /></navPoint>
+    <navPoint id="navPoint-17" playOrder="17"><navLabel><text>15 Programming with monads</text></navLabel><content src="programming-with-monads.html" /></navPoint>
+    <navPoint id="navPoint-18" playOrder="18"><navLabel><text>16 The Parsec parsing library</text></navLabel><content src="using-parsec.html" /></navPoint>
+    <navPoint id="navPoint-19" playOrder="19"><navLabel><text>17 The foreign function interface</text></navLabel><content src="interfacing-with-c-the-ffi.html" /></navPoint>
+    <navPoint id="navPoint-20" playOrder="20"><navLabel><text>18 Monad transformers</text></navLabel><content src="monad-transformers.html" /></navPoint>
+    <navPoint id="navPoint-21" playOrder="21"><navLabel><text>19 Error handling</text></navLabel><content src="error-handling.html" /></navPoint>
+    <navPoint id="navPoint-22" playOrder="22"><navLabel><text>20 Systems programming</text></navLabel><content src="systems-programming-in-haskell.html" /></navPoint>
+    <navPoint id="navPoint-23" playOrder="23"><navLabel><text>21 Working with databases</text></navLabel><content src="using-databases.html" /></navPoint>
+    <navPoint id="navPoint-24" playOrder="24"><navLabel><text>22 Web client programming</text></navLabel><content src="extended-example-web-client-programming.html" /></navPoint>
+    <navPoint id="navPoint-25" playOrder="25"><navLabel><text>23 GUI programming</text></navLabel><content src="gui-programming-with-gtk-hs.html" /></navPoint>
+    <navPoint id="navPoint-26" playOrder="26"><navLabel><text>24 Basic concurrent and parallel programming</text></navLabel><content src="concurrent-and-multicore-programming.html" /></navPoint>
+    <navPoint id="navPoint-27" playOrder="27"><navLabel><text>25 Profiling and tuning for performance</text></navLabel><content src="profiling-and-optimization.html" /></navPoint>
+    <navPoint id="navPoint-28" playOrder="28"><navLabel><text>26 Advanced library design: building a Bloom filter</text></navLabel><content src="advanced-library-design-building-a-bloom-filter.html" /></navPoint>
+    <navPoint id="navPoint-29" playOrder="29"><navLabel><text>27 Network programming</text></navLabel><content src="sockets-and-syslog.html" /></navPoint>
+    <navPoint id="navPoint-30" playOrder="30"><navLabel><text>28 Software transactional memory</text></navLabel><content src="software-transactional-memory.html" /></navPoint>
+    <navPoint id="navPoint-31" playOrder="31"><navLabel><text>B. Installing GHC and Haskell libraries</text></navLabel><content src="installing-ghc-and-haskell-libraries.html" /></navPoint>
+    <navPoint id="navPoint-32" playOrder="32"><navLabel><text>C. Characters, strings, and escaping rules</text></navLabel><content src="characters-strings-and-escaping-rules.html" /></navPoint>
+    <navPoint id="navPoint-33" playOrder="33"><navLabel><text>D. Web site and comment system usage and policies</text></navLabel><content src="web-site-and-comment-system-usage-and-policies.html" /></navPoint>
+  </navMap>
+</ncx>
